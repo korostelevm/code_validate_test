@@ -1,5 +1,5 @@
 
-
+3
 {
     "name": "console-store",
     "version": "1.0.0",
@@ -15,7 +15,7 @@
     },
     "keywords": [],
     "author": "",
-    "license": "ISC"
+    "license": "ISC",
     "bugs": {
       "url": "https://github.com/jseo2022se/console-store/issues"
     },
@@ -24,6 +24,6 @@
       "express": "^4.18.1"
     },
     "devDependencies": {
-        "dotenv": "^16.0.3",
+        "dotenv": "^16.0.3"
     }
   }
